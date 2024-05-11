@@ -10,3 +10,6 @@ This Report Shows:
 
 # Technology Usage
 Technology Used: Microsoft Power BI, Power Query, Power BI Visualizations
+
+![Sample Report](https://github.com/Anurag-Bhattacharya4199/Employee-Demographics-Dashboard/assets/134398219/7e0f7983-9576-440a-a7da-cce5ec638852)
+
